@@ -10,8 +10,6 @@ Team Name: 29704 1
 6. Alvin Vasanthakumar - [@alvinvasanth](https://github.com/alvinvasanth)
 
 # Description of dataset:
-Where was it obtained, what are the dimensions of it (rows and columns), what are the various columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would understand the dataset.
-
 Our dataset provides data regarding car accidents in Maryland, specifically Montgomery County. Our group found the dataset with the website provided (https://data.gov/). The dataset contains many rows and columns containing various data types, with main characteristics being in columns. It specifies information regarding the collision type, street name, weather and light conditions, vehicle type, and the damage extent. These dimensions are all data type string. The data set also contains dimensions such as crash date/time, 
 It specifies information such as the collision type, the location of the accident, the weather, time of day, injuries, and the damage extent. 
 
