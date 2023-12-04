@@ -9,9 +9,9 @@ Team Name: 29704 1
 5. Shrija Ramachandran Ganesh Mohan - [@shrija-27](https://github.com/shrija-27)
 6. Alvin Vasanthakumar - [@alvinvasanth](https://github.com/alvinvasanth)
 
-#Description of dataset:
+# Description of dataset:
 
-#Question 1:
+# Question 1:
 ## Q1: 
 
 ## Importance:
@@ -21,7 +21,7 @@ Team Name: 29704 1
 
 ## Importance:
 
-#Manipulation applied to the data set for analysis:
+# Manipulation applied to the data set for analysis:
 
-#Tableau packaged workbook
+# Tableau packaged workbook
 The packaged workbook containing the visualizations shown above is attached to this repository.
