@@ -25,6 +25,7 @@ It specifies information such as the collision type, the location of the acciden
 ### Importance:
 
 # Manipulation applied to the data set for analysis:
+There were two manipulations we decided to perform on the data set to allow easier access to the information that was critical for our analysis. In the exported data set, the date and time of the accident were listed in one column. We decided it would be best to separate the date and time column, essentially making each their own individual columns. Additionally, we had to alter the time column. The time column was changed to display time by the hour. With this manipulation, we were able to analyze crashes that occurred at different hours. We also had to filter the data to only display clear conditions and distractions related to a cell phone only to analyze the first question. Without this manipulation we would have a much larger dataset and unnecessary information would be displayed.  
 
 # Tableau packaged workbook
 The packaged workbook containing the visualizations shown above is attached to this repository.
